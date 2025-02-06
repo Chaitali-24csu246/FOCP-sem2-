@@ -1,4 +1,5 @@
 #include <iostream>
+// A1Q1
 using namespace std;
 int isprime(int n){
     int a=1;
