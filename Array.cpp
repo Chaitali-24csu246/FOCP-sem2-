@@ -1,4 +1,5 @@
 #include <iostream>
+//A1Q2
 using namespace std;
 void arrev(int *arr, int n);
 void secmaxmin(int *arr, int n);
